@@ -38,4 +38,3 @@ contract DegenToken is ERC20, ERC20Burnable, Ownable {
         return itemInventory[player][itemType];
     }
 }
-
